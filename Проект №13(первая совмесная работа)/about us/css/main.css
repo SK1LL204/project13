@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    color: #fff;
+}
+.full-background{
+    background: url(../img/photo_2023-04-10_20-39-07.jpg);
+    background-size: cover;
+}
+.block-header{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    gap: 350px;
+}
+.block-for-images{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 16px;
+}
+.block-for-buttons{
+    display: flex;
+    align-items: center;
+    gap: 125px; 
+    margin-top: 16px;   
+}
+.button, .button-2{
+    color: #fff;
+    text-decoration: none;
+}
+.button-2{
+    color: gray;
+}
+.container-line{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: -15px;
+}
+.line-1{
+    margin-top: 17px;
+    margin-bottom: 19px;
+}
+.block-button-book-an-appointment{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 320px;
+    min-height: 50px;
+    background: linear-gradient(90deg, #000000 22.9%, #111111 78.35%);
+    border: 1px solid #222222;
+    border-radius: 47px;
+    margin-top: 556px;
+    margin-left: 955px;
+}
+.button-book-an-appointment{
+    text-decoration: none;
+    color: #DCDCDC;
+    font-size: 18px;
+}
+.section-1{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-top: 100px;
+    background: url(../img/Rectangle\ 9.png) center center no-repeat;
+    background-size: cover;
+    min-height: 900px;
+}
+.container-section-1{
+    
+}
+.block-section-1{
+    
+}
+.pargraph-section-1{
+    max-width: 1200px;
+    max-height: 308px;
+    font-size: 35px;
+    line-height: 43px;
+    color: #A09595;
+}
+.block-paragraph-section-1{
+    
+}
+.section-2{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-top: 100px;
+    background: url(../img/Rectangle\ 10.png) center center no-repeat;
+    background-size: cover;
+    min-height: 900px;
+}
+.container-section-2{
+
+}
+.block-section-2{
+
+}
+.paragraph-section-2{
+    max-width: 1200px;
+    max-height: 308px;
+    font-size: 35px;
+    line-height: 43px;
+    color: #A09595;
+}
